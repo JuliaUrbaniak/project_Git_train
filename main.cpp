@@ -7,6 +7,6 @@ int Policz (int a, int b){
 int main() {
     std::cout << "Hello, World!" << std::endl;
     std::cout<<"W pierwszym branchu: 2+3="<<Policz(2,3)<<std::endl;
-    std::cout<<"W pierwszym branchu: 2+8="<<Policz(2,8)<<std::endl;
+    std::cout<<"W pierwszym branchu: 2+7="<<Policz(2,7)<<std::endl;
     return 0;
 }
